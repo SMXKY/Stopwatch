@@ -164,7 +164,7 @@ button:hover{
     }
 }
 
-@media(max-width: 391px){
+@media(max-width: 420px){
     body{
         background-color: black ;
         display: flex ;
